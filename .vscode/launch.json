@@ -1,5 +1,4 @@
 {
-  "version": "0.2.0",
   "configurations": [
     {
       "name": "C/C++ Runner: Debug Session",
@@ -8,8 +7,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/BSC_INF_26_21/Desktop/Advanced C++",
-      "program": "c:/Users/BSC_INF_26_21/Desktop/Advanced C++/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
